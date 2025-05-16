@@ -12,6 +12,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: HeartItem Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 6298791050656314413, guid: 6fdfa38264e4a483d94dc7462a068581, type: 3}
+      propertyPath: ID
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 7221341936763009576, guid: 6fdfa38264e4a483d94dc7462a068581, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -92,6 +96,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7770842804781950844, guid: 6fdfa38264e4a483d94dc7462a068581, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -373599040, guid: 6b7c7ffaaac3f43e7831e1b58491a26d, type: 3}
     - target: {fileID: 9130553527867091274, guid: 6fdfa38264e4a483d94dc7462a068581, type: 3}
       propertyPath: m_Sprite
       value: 
