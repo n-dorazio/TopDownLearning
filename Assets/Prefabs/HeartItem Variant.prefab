@@ -14,7 +14,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6298791050656314413, guid: 6fdfa38264e4a483d94dc7462a068581, type: 3}
       propertyPath: ID
-      value: 2
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6298791050656314413, guid: 6fdfa38264e4a483d94dc7462a068581, type: 3}
+      propertyPath: Name
+      value: Heart
       objectReference: {fileID: 0}
     - target: {fileID: 7221341936763009576, guid: 6fdfa38264e4a483d94dc7462a068581, type: 3}
       propertyPath: m_Pivot.x
@@ -95,6 +99,18 @@ PrefabInstance:
     - target: {fileID: 7221341936763009576, guid: 6fdfa38264e4a483d94dc7462a068581, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7619601704060143266, guid: 6fdfa38264e4a483d94dc7462a068581, type: 3}
+      propertyPath: bounceCount
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7619601704060143266, guid: 6fdfa38264e4a483d94dc7462a068581, type: 3}
+      propertyPath: bounceHeight
+      value: 0.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7619601704060143266, guid: 6fdfa38264e4a483d94dc7462a068581, type: 3}
+      propertyPath: bounceDuration
+      value: 0.3
       objectReference: {fileID: 0}
     - target: {fileID: 7770842804781950844, guid: 6fdfa38264e4a483d94dc7462a068581, type: 3}
       propertyPath: m_Sprite
